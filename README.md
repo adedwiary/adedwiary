@@ -1,4 +1,4 @@
-<h1>Hi There, I'm Ade Dwi Aryani! <br/><a href="https://github.com/adedwiary">Data Analyst</a> & <a href="https://www.linkedin.com/in/ade-dwi-aryani/">Economics Researcher</a></h1>
+<h1>Hi There, I'm Ade Dwi Aryani! <br/><a href="https://github.com/adedwiary">Research</a> and <a href="https://www.linkedin.com/in/ade-dwi-aryani/">Data Analyst</a></h1>
 
 ## 👋 About Me
 
