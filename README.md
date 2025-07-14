@@ -2,7 +2,7 @@
 
 ## 👋 About Me
 
-I am an analytical thinker and skilled data analyst focused on transforming complex data into actionable insights. As a Research Assistant at Bank Indonesia, I analyzed the impact of policies on loan provisioning for smaller banks using Stata and the Generalized Method of Moments (GMM), providing strategic recommendations for better fund management. I also researched bank behavior in determining credit supply in Indonesia, analyzing factors such as interest rates and structural changes. Proficient in Python, R, MySQL, Stata, and Tableau, I ensure accurate data processing and visualization. With a proven track record and a collaborative approach, I am excited to drive impactful decisions through data-driven insights and contribute to your organization’s success.
+Ade is a detail-oriented, disciplined, and dedicated data analyst with 3 years of experience in collecting, cleaning, and analyzing economic and banking data. At Bank Indonesia, Ade worked on multiple research projects involving data exploration, visualization, and predictive modeling using econometric and machine learning methods—contributing to four published working papers. Ade is proficient in Python, SQL (BigQuery), Excel, and Tableau, and has experience in maintaining databases and creating data-driven dashboards. Ade completed RevoU’s Data Analyst Bootcamp with a perfect score (100/100), served as a team leader, and led several end-to-end data projects. Passionate about turning raw data into actionable insights to support better decision-making.
 
 
 ## 🤳 Connect with me:
